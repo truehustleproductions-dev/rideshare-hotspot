@@ -1,0 +1,12 @@
+{
+  "name": "Rideshare Hotspot",
+  "short_name": "Hotspot",
+  "description": "Personal AI-powered rideshare companion",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "orientation": "portrait-primary",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
